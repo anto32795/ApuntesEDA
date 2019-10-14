@@ -1,0 +1,3 @@
+Tree tiene dos atributos: uno el size, y otro un puntero al nodo raiz.
+Cada nodo tiene puntero al padre.
+Arbol Left-Child, Right Sibling: tiene puntero a hijo y a hermano derecho.
